@@ -1,1 +1,2 @@
-print('this is test code')
+import numpy as np 
+np.asarray([1,2,3])
